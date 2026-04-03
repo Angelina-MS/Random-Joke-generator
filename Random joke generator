@@ -13,4 +13,3 @@ while True:
             ("Sorry,could not get a joke right now.Please try again later!")
     else:
         print("Alright!Have a good day then")
-        break
