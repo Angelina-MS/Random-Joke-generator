@@ -1,4 +1,4 @@
-~ A Random Joke generator ~
+# ~ A Random Joke generator ~
 This is a program that uses API to output a random joke for the user's entertainment.
 
 # Features:
