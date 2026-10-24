@@ -6,7 +6,7 @@ This is a program that uses API to output a random joke for the user's entertain
 - Uses the 'requests' library to call APIs
 - Prints jokes in a readable format
 
- What I learnt:
+ What I learned:
  
 - Use of API 
 - While loop 
